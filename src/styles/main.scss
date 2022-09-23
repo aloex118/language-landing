@@ -1,0 +1,107 @@
+@import '../../node_modules/bootstrap/scss/bootstrap.scss';
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@600&display=swap');
+
+$green-color: #00EBC3;
+$white-color: #fff;
+
+.col-1 {
+  text-align: center;
+  justify-content: center;
+}
+
+.gy-text {
+  color: #465C59;
+  padding-top: 25px;
+  font-size: 13px;
+  margin-left: 18px;
+  font-family: 'Poppins', sans-serif;
+  font-weight: 600;
+}
+
+.gr-text {
+  color: $green-color;
+  padding-top: 25px;
+  font-size: 13px;
+  margin-left: 18px;
+  font-family: 'Poppins', sans-serif;
+  font-weight: 600;
+}
+
+.num-text {
+  color: #465C59;
+  font-family: 'Poppins', sans-serif;
+  font-weight: 600;
+  font-size: 13.5px;
+  padding-top: 24px;
+  margin-left: -12px;
+  width: 120px;
+}
+
+.btn-reg {
+  background-color: $green-color;
+  color: $white-color;
+  border-style: none;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  padding-left: 28px;
+  padding-right: 28px;
+  font-size: 12px;
+  font-family: 'Poppins', sans-serif;
+  font-weight: 600;
+  border-radius: 5px;
+  margin-top: 13px;
+  margin-left: 25px;
+}
+
+.btn-gst {
+  background-color: $green-color;
+  color: $white-color;
+  border-style: none;
+  position: absolute;
+  left: 31%;
+  top: 71%;
+  padding-top: 11px;
+  padding-bottom: 11px;
+  padding-left: 40px;
+  padding-right: 40px;
+  font-size: 14px;
+  font-family: 'Poppins', sans-serif;
+  font-weight: 600;
+  border-radius: 5px;
+  margin-top: 13px;
+  margin-left: 25px;
+}
+
+.text-m {
+  position: relative;
+}
+
+.text-m h1 {
+  font-family: 'Poppins', sans-serif;
+  font-weight: 700;
+  color: #3C3C3C;
+  position: absolute;
+  left: 27%;
+  top: 32%;
+  font-size: 45px;
+  width: 240px;
+}
+
+#logo {
+  margin-top: 14px;
+  width: 104px;
+  height: 43px;
+}
+
+#phoneicon {
+  width: 45px;
+  height: 45px;
+  margin-top: 10px;
+  margin-left: 55px;
+}
+
+#bg {
+  width: 1400px;
+  height: 800px;
+  margin-top: -75px;
+}
