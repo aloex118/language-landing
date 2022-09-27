@@ -271,3 +271,74 @@ $bcolor: #3C3C3C;
   top: 309%; 
   left: 57.70%;
 }
+
+.f-block {
+  padding-top: 100px;
+  font-family: 'Poppins', sans-serif;
+  color: $green-color;
+  font-size: 16px;
+}
+
+.col-f-block {
+  padding-top: 40px;
+}
+
+.img-icon {
+  width: 21px; 
+  height: 21px; 
+  margin-bottom: 4px; 
+  margin-right: 3px;
+}
+
+.con-fifth {
+  background-color: #D9FCF6;
+  width: 500px;
+  height: 450px;
+  border-radius: 15px;
+}
+
+.image-photo {
+  width: 223px;
+  height: 223px;
+  position: absolute;
+  right: 64%;
+  margin-top: 106px;
+}
+
+.l-block-text {
+  font-family: 'Poppins', sans-serif;
+  font-style: italic;
+  color: #9E9E9E;
+  position: absolute;
+  top: 547%;
+  font-size: 18px;
+}
+
+.stars-info {
+  position: absolute;
+  top: 551%;
+  right: 800px;
+}
+
+.col-f-blocktext {
+  font-family: 'Poppins', sans-serif;
+  font-size: 16px;
+  color: #858585;
+}
+
+.main-f {
+  font-family: 'Poppins', sans-serif;
+  padding-left: 7px;
+  padding-top: -15px;
+  font-size: 33px;
+}
+
+.fblockrow {
+  padding-left: 78px;
+  margin-bottom: 10px;
+  font-family: 'Poppins', sans-serif;
+}
+
+.col-snap-2 {
+  display: flex;
+}
